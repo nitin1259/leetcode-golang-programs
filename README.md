@@ -7,6 +7,7 @@
 ## Medium
 
 - [everse Words in a String](medium/reverseWordsInAString.go)
+- [Invert Binary Tree](medium/invertBinaryTree.go)
 
 ## Hard
 
