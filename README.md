@@ -1,4 +1,4 @@
-# leetcode-golang-programs
+# leetcode-golang-programs for coders
 
 ## Easy
 
